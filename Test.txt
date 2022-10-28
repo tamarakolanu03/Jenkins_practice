@@ -1,1 +1,1 @@
-This is added because to chek the autotrigger of web hook of git
+This is added because to chek the autotrigger of web hook of
