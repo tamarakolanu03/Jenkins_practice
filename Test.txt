@@ -1,2 +1,2 @@
-This is added because to chek the autotrigger of web hook
-Hello Trinadh
+This is added because to chek the auto-trigger of web hook
+Hello Trinadh this file used for testing
